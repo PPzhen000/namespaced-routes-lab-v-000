@@ -2,18 +2,18 @@ class Preference < ActiveRecord::Base
 
   def song_sort_order
 
-  end 
+  end
 
   def artist_sort_order
 
-  end 
+  end
 
   def allow_create_artists
 
-  end 
+  end
 
   def allow_create_songs
 
-  end 
+  end
   
 end
